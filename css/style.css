@@ -34,10 +34,12 @@ margin-top: 5px;
 }
 /* header end */
 
+/* container start */
 .container {
   text-align: center;
   margin: 100px;
 }
+/* container end */
 
 /* search area start */
 .search-area {
@@ -212,4 +214,3 @@ margin-top: 5px;
   text-decoration: underline;
 }
 /* footer end */
-
